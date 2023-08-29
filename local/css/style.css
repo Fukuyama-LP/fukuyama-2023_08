@@ -1,0 +1,1951 @@
+@charset "UTF-8";
+#main #main_a #tokusyuu_202308_1 * {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  text-align: left;
+  line-height: 1.5;
+  font-family: Meiryo, メイリオ, 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', Osaka, 'MS PGothic', arial, helvetica, sans-serif;
+}
+
+#main #main_a #tokusyuu_202308_1 html, #main #main_a #tokusyuu_202308_1 body, #main #main_a #tokusyuu_202308_1 div, #main #main_a #tokusyuu_202308_1 span, #main #main_a #tokusyuu_202308_1 object, #main #main_a #tokusyuu_202308_1 iframe,
+#main #main_a #tokusyuu_202308_1 h1, #main #main_a #tokusyuu_202308_1 h2, #main #main_a #tokusyuu_202308_1 h3, #main #main_a #tokusyuu_202308_1 h4, #main #main_a #tokusyuu_202308_1 h5, #main #main_a #tokusyuu_202308_1 h6, #main #main_a #tokusyuu_202308_1 p, #main #main_a #tokusyuu_202308_1 blockquote, #main #main_a #tokusyuu_202308_1 pre,
+#main #main_a #tokusyuu_202308_1 abbr, #main #main_a #tokusyuu_202308_1 address, #main #main_a #tokusyuu_202308_1 cite, #main #main_a #tokusyuu_202308_1 code,
+#main #main_a #tokusyuu_202308_1 del, #main #main_a #tokusyuu_202308_1 dfn, #main #main_a #tokusyuu_202308_1 em, #main #main_a #tokusyuu_202308_1 img, #main #main_a #tokusyuu_202308_1 ins, #main #main_a #tokusyuu_202308_1 kbd, #main #main_a #tokusyuu_202308_1 q, #main #main_a #tokusyuu_202308_1 samp,
+#main #main_a #tokusyuu_202308_1 small, #main #main_a #tokusyuu_202308_1 strong, #main #main_a #tokusyuu_202308_1 sub, #main #main_a #tokusyuu_202308_1 sup, #main #main_a #tokusyuu_202308_1 var,
+#main #main_a #tokusyuu_202308_1 b, #main #main_a #tokusyuu_202308_1 i,
+#main #main_a #tokusyuu_202308_1 dl, #main #main_a #tokusyuu_202308_1 dt, #main #main_a #tokusyuu_202308_1 dd, #main #main_a #tokusyuu_202308_1 ol, #main #main_a #tokusyuu_202308_1 ul, #main #main_a #tokusyuu_202308_1 li,
+#main #main_a #tokusyuu_202308_1 fieldset, #main #main_a #tokusyuu_202308_1 form, #main #main_a #tokusyuu_202308_1 label, #main #main_a #tokusyuu_202308_1 legend,
+#main #main_a #tokusyuu_202308_1 table, #main #main_a #tokusyuu_202308_1 caption, #main #main_a #tokusyuu_202308_1 tbody, #main #main_a #tokusyuu_202308_1 tfoot, #main #main_a #tokusyuu_202308_1 thead, #main #main_a #tokusyuu_202308_1 tr, #main #main_a #tokusyuu_202308_1 th, #main #main_a #tokusyuu_202308_1 td,
+#main #main_a #tokusyuu_202308_1 article, #main #main_a #tokusyuu_202308_1 aside, #main #main_a #tokusyuu_202308_1 canvas, #main #main_a #tokusyuu_202308_1 details, #main #main_a #tokusyuu_202308_1 figcaption, #main #main_a #tokusyuu_202308_1 figure,
+#main #main_a #tokusyuu_202308_1 footer, #main #main_a #tokusyuu_202308_1 header, #main #main_a #tokusyuu_202308_1 hgroup, #main #main_a #tokusyuu_202308_1 menu, #main #main_a #tokusyuu_202308_1 nav, #main #main_a #tokusyuu_202308_1 section, #main #main_a #tokusyuu_202308_1 summary,
+#main #main_a #tokusyuu_202308_1 time, #main #main_a #tokusyuu_202308_1 mark, #main #main_a #tokusyuu_202308_1 audio, #main #main_a #tokusyuu_202308_1 video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+#main #main_a #tokusyuu_202308_1 ul, #main #main_a #tokusyuu_202308_1 li {
+  list-style: none;
+}
+
+#main #main_a #tokusyuu_202308_1 a {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+@media screen and (min-width: 751px) {
+  .view--pc {
+    display: block;
+  }
+  .view--sp {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .view--pc {
+    display: none;
+  }
+  .view--sp {
+    display: block;
+  }
+}
+
+.view--sm {
+  display: none;
+}
+
+@media screen and (max-width: 320px) {
+  .view--sm {
+    display: block;
+  }
+}
+
+/*広報ふくやま専用 start*/
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+#mymainback {
+  font-size: 100%;
+}
+
+#main #main_a #tokusyuu_202308_1 {
+  width: 100%;
+  max-width: 870px;
+  margin-bottom: 40px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  line-height: 1.5;
+  color: #000000;
+}
+
+#main #main_a #tokusyuu_202308_1 p {
+  margin: 0px;
+  padding: 0px;
+  font-family: Meiryo, "MS Pゴシック", "MS PGothic", sans-serif;
+  font-size: 1.6rem;
+  color: #000000;
+}
+
+#main #main_a #tokusyuu_202308_1 h1, #main #main_a #tokusyuu_202308_1 h2,
+#main #main_a #tokusyuu_202308_1 h3, #main #main_a #tokusyuu_202308_1 h4,
+#main #main_a #tokusyuu_202308_1 h5, #main #main_a #tokusyuu_202308_1 h6 {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  background: none;
+  font-family: Meiryo, "MS Pゴシック", "MS PGothic", sans-serif;
+}
+
+dl.contact {
+  margin: 10px 0px 0px 0px;
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  -webkit-box-pack: start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-size: 1.3rem;
+}
+
+dl.contact dt span {
+  display: inline-block;
+  color: #000;
+  font-weight: bold;
+  font-size: 1.4rem;
+  background: #e85298;
+  padding: 6px 8px;
+  border-radius: 5px;
+  line-height: 1;
+  margin-right: 10px;
+  white-space: nowrap;
+}
+
+dl.contact dd, dl.contact dd.last {
+  margin: 0;
+  padding: 0px;
+  display: inline-block;
+  vertical-align: middle;
+  font-family: "メイリオ", Meiryo, "MS Pゴシック", "MS PGothic", sans-serif;
+  font-weight: normal;
+  font-size: 1.6rem;
+  line-height: 1;
+}
+
+dl.contact dd > span {
+  display: inline-block;
+  line-height: 2.2;
+}
+
+.icon_tel:before {
+  content: url(./icon-tel.png);
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 4px 0 5px;
+  line-height: 1em;
+}
+
+span.block {
+  display: inline-block;
+}
+
+/*記事ID　追加*/
+dl.id-num {
+  margin: 10px 0px 0px 0px;
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  -webkit-box-pack: end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-size: 1.4rem;
+}
+
+dl.id-num dt span {
+  display: inline-block;
+  color: #fff;
+  font-weight: normal;
+  background: #000;
+  padding: 6px;
+  border-radius: 5px;
+  line-height: 1em;
+  margin-right: 10px;
+  white-space: nowrap;
+}
+
+dl.id-num dd {
+  margin: 0;
+  padding: 2px 0px 0px;
+  display: inline-block;
+  vertical-align: middle;
+  font-family: "メイリオ", Meiryo, "MS Pゴシック", "MS PGothic", sans-serif;
+  font-size: 1.5rem;
+}
+
+dl.id-num dd > span {
+  display: inline-block;
+}
+
+/*記事ID　追加 end*/
+/*広報ふくやま専用 end*/
+/* スマートフォン */
+/* スマートフォン ここまで */
+#main #main_a #tokusyuu_202308_1 {
+  width: 100%;
+  max-width: 870px;
+  margin: 30px 0 80px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 {
+    width: 100%;
+    max-width: 100%;
+    margin: 20px auto 48px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .c-inner, #main #main_a #tokusyuu_202308_1 .head__inner {
+  width: 80%;
+  max-width: 696px;
+  margin: auto;
+}
+
+@media screen and (max-width: 870px) and (min-width: 751px) {
+  #main #main_a #tokusyuu_202308_1 .c-inner, #main #main_a #tokusyuu_202308_1 .head__inner {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .c-inner, #main #main_a #tokusyuu_202308_1 .head__inner {
+    width: 89.333%;
+    max-width: 100%;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .c-btn {
+  display: block;
+  text-align: center;
+  -webkit-transition: all 0.5s ease 0s;
+  transition: all 0.5s ease 0s;
+  background: #333;
+  color: #fff;
+  width: 100%;
+  margin: auto;
+  text-decoration: underline;
+  font-size: 1.6rem;
+  max-width: 192px;
+  line-height: 44px;
+  border-radius: 44px;
+}
+
+@media screen and (min-width: 751px) {
+  #main #main_a #tokusyuu_202308_1 .c-btn:hover {
+    opacity: .7;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .c-btn {
+    font-size: 1.6rem;
+    width: 59.7%;
+    max-width: 100%;
+    line-height: 40px;
+    border-radius: 40px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .c-title, #main #main_a #tokusyuu_202308_1 .c-title-num, #main #main_a #tokusyuu_202308_1 .c-title-barleft, #main #main_a #tokusyuu_202308_1 .c-title-bg {
+  font-weight: bold;
+  font-size: 2.2rem;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .c-title, #main #main_a #tokusyuu_202308_1 .c-title-num, #main #main_a #tokusyuu_202308_1 .c-title-barleft, #main #main_a #tokusyuu_202308_1 .c-title-bg {
+    font-size: 1.8rem;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .c-title-num:before {
+  content: attr(title);
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 40px;
+  height: 40px;
+  background: #B60011;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-right: 16px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .c-title-num:before {
+    width: 32px;
+    height: 32px;
+    font-size: 1.4rem;
+    margin-right: 12px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .c-title-barleft {
+  border-left: 8px solid #BA4E00;
+  padding-left: 10px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .c-title-barleft {
+    border-left: 8px solid #BA4E00;
+    padding-left: 8px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .c-title-bg {
+  color: #fff;
+  background: #1D6F5C;
+  font-weight: bold;
+  padding: 10px 20px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .c-title-bg {
+    padding: 8px 12px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .c-text-bubble {
+  position: relative;
+  display: inline-block;
+  background: #FFF100;
+  color: #000;
+  font-weight: bold;
+  border: 1px solid #000;
+  font-size: 1.6rem;
+  padding: 9px 20px 8px;
+  margin: 0 0 17px;
+}
+
+#main #main_a #tokusyuu_202308_1 .c-text-bubble:before, #main #main_a #tokusyuu_202308_1 .c-text-bubble:after {
+  position: absolute;
+  bottom: -9px;
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 10px 10px 0 10px;
+  border-color: #FFF100 transparent transparent transparent;
+}
+
+#main #main_a #tokusyuu_202308_1 .c-text-bubble:before {
+  z-index: 2;
+}
+
+#main #main_a #tokusyuu_202308_1 .c-text-bubble:after {
+  z-index: 1;
+  bottom: -10px;
+  border-color: #000 transparent transparent transparent;
+}
+
+#main #main_a #tokusyuu_202308_1 .c-text-marker {
+  text-align: center;
+  display: inline-block;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(60%, transparent), color-stop(60%, #FFF100));
+  background: linear-gradient(transparent 60%, #FFF100 60%);
+}
+
+#main #main_a #tokusyuu_202308_1 .c-text-line {
+  border-bottom: 2px solid #B5361D;
+  padding-top: 5px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .c-text-line {
+    border-bottom: 2px solid #B5361D;
+    padding-top: 2.5px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .c-text-line-stripe {
+  position: relative;
+}
+
+#main #main_a #tokusyuu_202308_1 .c-text-line-stripe:after {
+  content: "";
+  display: block;
+  margin: 5px auto 0;
+  width: 100%;
+  height: 8px;
+  background-image: repeating-linear-gradient(45deg, #1d6f5c, #1d6f5c 4px, white 0, white 8px);
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .c-text-line-stripe:after {
+    height: 8px;
+    margin: 4px auto 0;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .c-icon__call:before {
+  content: "";
+  width: 16px;
+  height: 16px;
+  margin: 0 3px;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  display: inline-block;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../img/head-contact-icon.png");
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .c-icon__call:before {
+    margin: 0 5px;
+    width: 16px;
+    height: 16px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .c-pager__item:before {
+  content: "\6B21\30DA\30FC\30B8>";
+  font-size: 2.2rem;
+  font-weight: bold;
+  display: inline-block;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .c-pager__item:before {
+    font-size: 1.6rem;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .c-pager__item {
+    display: inline-block;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .c-pager__item a {
+  font-weight: bold;
+  font-size: 2.2rem;
+  text-decoration: underline;
+  color: #0D59B7;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .c-pager__item a {
+    font-size: 1.6rem;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .p-contact {
+  margin: 30px auto 0;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .p-contact {
+    margin: 20px auto 0;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .p-contact-item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 20px 0 0;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .p-contact-item {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    margin: 12px auto 0;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .p-contact-item:first-child {
+  margin-top: 0;
+}
+
+#main #main_a #tokusyuu_202308_1 .p-contact-item.id-address .p-contact-title {
+  background: #DB2479;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .p-contact-item.id-address .p-contact-title {
+    margin-bottom: 5px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .p-contact-item.id-address .p-contact-text span.is-call {
+  position: relative;
+}
+
+#main #main_a #tokusyuu_202308_1 .p-contact-item.id-address .p-contact-text span.is-call:before, #main #main_a #tokusyuu_202308_1 .p-contact-item.id-address .p-contact-text span.is-call:after {
+  content: "（";
+  display: inline-block;
+  font-size: 1.6rem;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .p-contact-item.id-address .p-contact-text span.is-call:before, #main #main_a #tokusyuu_202308_1 .p-contact-item.id-address .p-contact-text span.is-call:after {
+    font-size: 1.6rem;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .p-contact-item.id-address .p-contact-text span.is-call:after {
+  content: "）";
+}
+
+#main #main_a #tokusyuu_202308_1 .p-contact-item.is-id .p-contact-text {
+  font-weight: bold;
+}
+
+#main #main_a #tokusyuu_202308_1 .p-contact-title {
+  display: inline-block;
+  color: #fff;
+  background: #000;
+  font-size: 1.4rem;
+  font-weight: normal;
+  padding: 3px 6px 2px;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .p-contact-title {
+    font-size: 1.4rem;
+    padding: 2.5px 8px;
+    border-radius: 4px;
+    margin-right: 8px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .p-contact-text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  font-size: 1.6rem;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .p-contact-text {
+    font-size: 1.6rem;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .p-contact-text span {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#main #main_a #tokusyuu_202308_1 .p-voice {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .p-voice {
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .p-voice-img {
+  width: 23%;
+  max-width: 160px;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .p-voice-img {
+    width: 29.8%;
+    max-width: 100%;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .p-voice-img p {
+  text-align: center;
+  font-size: 1.2rem;
+  margin: 10px auto 0;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .p-voice-img p {
+    font-size: 1.3rem;
+    margin: 7.5px auto 0;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .p-voice-text {
+  position: relative;
+  border: 1px solid #175A9D;
+  width: 71.3%;
+  max-width: 496px;
+  padding: 20px 18px;
+  border-radius: 8px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .p-voice-text {
+    width: 65.3%;
+    max-width: 100%;
+    padding: 12px;
+    border-radius: 8px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .p-voice-text:before, #main #main_a #tokusyuu_202308_1 .p-voice-text:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -18px;
+  margin: auto;
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 10px 17.3px 10px 0;
+  border-color: transparent #175A9D transparent transparent;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .p-voice-text:before, #main #main_a #tokusyuu_202308_1 .p-voice-text:after {
+    top: 20px;
+    bottom: auto;
+    left: -11px;
+    border-width: 6px 10.4px 6px 0;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .p-voice-text:before {
+  z-index: 1;
+}
+
+#main #main_a #tokusyuu_202308_1 .p-voice-text:after {
+  z-index: 2;
+  border-color: transparent #fff transparent transparent;
+  left: -16px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .p-voice-text:after {
+    left: -9px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .p-voice-text p {
+  color: #175A9D;
+  font-size: 1.4rem;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .p-voice-text p {
+    font-size: 1.4rem;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .p-talk-item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 30px 0 0;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .p-talk-item {
+    margin: 20px auto 0;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .p-talk-item:first-child {
+  margin-top: 0;
+}
+
+#main #main_a #tokusyuu_202308_1 .p-talk-item__title {
+  width: 13.5%;
+  max-width: 94px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .p-talk-item__title {
+    width: 23.9%;
+    max-width: 100%;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .p-talk-item__title p {
+  font-weight: bold;
+}
+
+#main #main_a #tokusyuu_202308_1 .p-talk-item__text {
+  width: 86.5%;
+  max-width: 602px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .p-talk-item__text {
+    width: 75%;
+    max-width: 100%;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .p-talk-item p {
+  font-size: 1.6rem;
+}
+
+#main #main_a #tokusyuu_202308_1 .head-contact {
+  margin: 30px auto 0;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-contact {
+    margin: 20px auto 0;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .head-top__title {
+  margin: 0 0 15px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-top__title {
+    width: 89.333%;
+    margin: auto;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .head-top__title h1 {
+  color: #BB2B1E;
+  font-weight: bold;
+  font-size: 4.8rem;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-top__title h1 {
+    font-size: 3rem;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .head-top__title p {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 0 auto 10px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-top__title p {
+    margin: 0 0 12px;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .head-top__title p.is-text {
+  font-weight: bold;
+  font-size: 4.8rem;
+  color: #007333;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-top__title p.is-text {
+    font-size: 3rem;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .head-top__title p span {
+  display: inline-block;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-top__title p span {
+    display: inline;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .head-top__title p span.is-title {
+  color: #000;
+  font-weight: bold;
+  font-size: 1.8rem;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  border-bottom: 2px solid #000000;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-top__title p span.is-title {
+    font-size: 1.8rem;
+    float: left;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .head-top__title p span.is-subtitle {
+  font-weight: bold;
+  font-size: 2.2rem;
+  line-height: 1.5;
+  color: #0068A1;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-top__title p span.is-subtitle {
+    font-size: 1.8rem;
+    margin-top: 5px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-top__mv {
+    width: 89.333%;
+    margin: auto;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .head-top__mv h1 {
+  max-width: 500px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-top__mv h1 {
+    margin-bottom: 20px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .head-top__mv p {
+  font-weight: bold;
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-top__mv p {
+    font-size: 2.6rem;
+    margin-bottom: 20px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .head-top__mv p span {
+  color: #C80026;
+}
+
+#main #main_a #tokusyuu_202308_1 .head-main__item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  width: 100%;
+  margin: 30px auto 0;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-main__item {
+    display: block;
+    margin: 20px auto 0;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .head-main__item:first-child {
+  margin-top: 0;
+}
+
+#main #main_a #tokusyuu_202308_1 .head-main__item-mv {
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-main__item-mv {
+    margin-bottom: 20px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .head-main__item-title {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #FFF67F;
+  margin: auto;
+  background-color: #000000;
+  padding: 10px 20px;
+  margin-bottom: 31px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-main__item-title {
+    margin-bottom: 20px;
+    font-size: 2.6rem;
+    padding: 4px 12px;
+    max-width: 250px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .head-main__item-title span {
+  color: #FFFFFF;
+}
+
+#main #main_a #tokusyuu_202308_1 .head-main__text, #main #main_a #tokusyuu_202308_1 .head-main__img {
+  width: 47.8%;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-main__text, #main #main_a #tokusyuu_202308_1 .head-main__img {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-main__img {
+    width: 74.6%;
+    margin: 20px auto 0;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .head-main__img p {
+  text-align: center;
+  font-size: 1.2rem;
+  margin: 10px auto 0;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-main__img p {
+    font-size: 1.3rem;
+    margin: 7.5px auto 0;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .head-title {
+  width: 100%;
+  color: #BB2B1E;
+  font-weight: bold;
+  font-size: 2.2rem;
+  margin: 0 auto 20px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-title {
+    text-align: left;
+    font-size: 2.2rem;
+    margin: 0 auto 20px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  #main #main_a #tokusyuu_202308_1 .head-title {
+    font-size: 2rem;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .head-text {
+  width: 100%;
+}
+
+#main #main_a #tokusyuu_202308_1 .head-text p {
+  font-size: 1.6rem;
+  line-height: 1.5;
+  font-weight: normal;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .head-text p {
+    font-size: 1.6rem;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .mayor {
+  width: 100%;
+  margin: auto;
+  padding: 30px;
+  margin-top: 80px;
+  background: #FEEFD4;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .mayor {
+    width: 89.333%;
+    padding: 20px;
+    margin-top: 40px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .mayor-title h2 {
+  font-size: 2.2rem;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .mayor-title h2 {
+    font-size: 1.8rem;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  #main #main_a #tokusyuu_202308_1 .mayor-title h2 {
+    font-size: 1.65rem;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .mayor-main {
+  margin: 30px 0 0;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .mayor-main {
+    margin: 20px 0 0;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .mayor-main p {
+  font-size: 1.6rem;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .mayor-main p {
+    font-size: 1.6rem;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .mayor-main__row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  margin-top: 30px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .mayor-main__row {
+    margin: 20px 0 0;
+    display: block;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .mayor-main__row img {
+  width: 200px;
+  height: 100%;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  margin-left: 30px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .mayor-main__row img {
+    width: 50.8%;
+    max-width: 300px;
+    margin-left: auto;
+    margin-top: 20px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 {
+  background-color: #fff;
+  margin: auto;
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-top {
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-top {
+    margin-top: 19px;
+    margin-bottom: 40px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-top-bubble {
+  max-width: 333px;
+  margin: auto;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-top-bubble {
+    max-width: 248px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-inner {
+  max-width: 696px;
+  width: 80%;
+  margin: auto;
+}
+
+@media screen and (max-width: 870px) and (min-width: 751px) {
+  #main #main_a #tokusyuu_202308_1 .cont-inner {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-inner {
+    width: 89.333%;
+    max-width: 100%;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-inner .cont-title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-inner .cont-title {
+    margin-bottom: 20px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-inner .cont-title-big {
+  font-size: 2.2rem !important;
+  font-weight: bold;
+  color: #fff;
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-inner .cont-title-big span {
+  color: #FFF67F;
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-inner .cont-title-small {
+  font-size: 1.4rem !important;
+  font-weight: normal !important;
+  color: #fff !important;
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-inner .cont-title p {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-inner .cont-title-date {
+  background-color: #00724A;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  max-width: 277px;
+  width: 100%;
+  padding: 15px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-inner .cont-title-date {
+    max-width: 100%;
+    padding: 8px;
+    padding-left: 16px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-inner .cont-title-desc {
+  background-color: #000000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  max-width: 419px;
+  width: 100%;
+  color: #fff;
+  padding: 15px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-inner .cont-title-desc {
+    max-width: 100%;
+    padding: 8px;
+    padding-left: 16px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-inner .cont-banner {
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-inner .cont-banner {
+    margin-bottom: 20px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-inner-heading {
+  font-size: 2.2rem;
+  font-weight: bold;
+  line-height: 1.5;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-inner-heading {
+    margin-bottom: 20px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-inner-text {
+  font-size: 1.6rem;
+  font-weight: normal;
+  line-height: 1.5;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-inner-text {
+    margin-bottom: 20px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-01 {
+  margin-bottom: 60px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01 {
+    margin-bottom: 40.25px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-01-item-01 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-item-01 {
+    margin-bottom: 20px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+
+@media screen and (min-width: 751px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-item-01 div:first-child {
+    margin-right: 30px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-item-01 div:first-child {
+    margin-bottom: 20px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-01-item-01 div {
+  max-width: 333px;
+  margin: auto;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-item-01 div {
+    max-width: 248px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-01-item-01-title {
+  margin-top: 15px;
+  font-size: 1.6rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-item-01-title {
+    margin-top: 12px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-01-item-01-text {
+  font-size: 1.6rem;
+  font-weight: normal;
+  line-height: 1.5;
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-01-item-02 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-item-02 {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-01-item-02 div {
+  max-width: 333px;
+  width: 100%;
+}
+
+@media screen and (min-width: 751px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-item-02 div:first-child {
+    margin-right: 30px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-item-02 div:first-child {
+    margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-item-02 div {
+    max-width: 100%;
+    margin: auto;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-01-item-02-title {
+  font-size: 2.2rem;
+  font-weight: bold;
+  line-height: 1.5;
+  color: #fff;
+  background-color: #000000;
+  padding: 10px 0;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-item-02-title {
+    margin-bottom: 12px;
+    padding: 8px 0;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-01-item-02-text {
+  font-size: 1.6rem;
+  font-weight: normal;
+  line-height: 1.5;
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-01-mid-title {
+  max-width: 283px;
+  margin: auto;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-mid-title {
+    max-width: 212px;
+    margin-bottom: 20px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-01-testimony {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-testimony {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin-bottom: 20px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-01-testimony-img {
+  max-width: 160px;
+  width: 100%;
+}
+
+@media screen and (min-width: 751px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-testimony-img {
+    margin-right: 30px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-testimony-img {
+    max-width: 160px;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-01-testimony-img p {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: normal;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-testimony-img p {
+    margin-top: 12px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-01-testimony-cont {
+  max-width: 506px;
+  position: relative;
+  width: 100%;
+  padding: 30px;
+  border: 1px solid #000000;
+  height: 100%;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-testimony-cont {
+    padding: 20px;
+    margin: auto;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-01-testimony-cont span {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #C80026;
+  position: absolute;
+  top: -13px;
+  background-color: #fff;
+  padding: 0 10px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-testimony-cont span {
+    padding: 0 8px;
+    left: 13px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-01-bubble {
+  max-width: 333px;
+  margin: auto;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-01-bubble {
+    max-width: 248px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-02 {
+  margin-bottom: 60px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-02 {
+    margin-bottom: 40px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-02 .cont-inner-heading {
+  background-color: #000000;
+  color: #fff;
+  padding: 10px 0;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-02 .cont-inner-heading {
+    padding: 8px 0;
+    margin-bottom: 12px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-02-invite {
+  max-width: 128px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-02-invite {
+    max-width: 95px;
+    margin-bottom: 20px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-02-mid-title {
+  max-width: 283px;
+  margin: auto;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-02-mid-title {
+    max-width: 212px;
+    margin-bottom: 20px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-02-testimony {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-02-testimony {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin-bottom: 20px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-02-testimony-img {
+  max-width: 160px;
+  width: 100%;
+}
+
+@media screen and (min-width: 751px) {
+  #main #main_a #tokusyuu_202308_1 .cont-02-testimony-img {
+    margin-right: 30px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-02-testimony-img {
+    max-width: 160px;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-02-testimony-img p {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: normal;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-02-testimony-img p {
+    margin-top: 12px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-02-testimony-cont {
+  max-width: 506px;
+  position: relative;
+  width: 100%;
+  padding: 30px;
+  border: 1px solid #000000;
+  height: 100%;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-02-testimony-cont {
+    padding: 20px;
+    margin: auto;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-02-testimony-cont span {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #C80026;
+  position: absolute;
+  top: -13px;
+  background-color: #fff;
+  padding: 0 10px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-02-testimony-cont span {
+    padding: 0 8px;
+    left: 13px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-02-bubble {
+  max-width: 333px;
+  margin: auto;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-02-bubble {
+    max-width: 248px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03 .cont-inner-heading-top {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03 .cont-inner-heading-top {
+    font-size: 2.6rem;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03 .cont-inner-heading-02 {
+  background-color: #000000;
+  color: #fff;
+  padding: 10px 0;
+  margin-bottom: 15px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03 .cont-inner-heading-02 {
+    margin-bottom: 12px;
+    padding: 8px 0;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03 .cont-inner-heading-03 {
+  margin-bottom: 15px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03 .cont-inner-heading-03 {
+    margin-bottom: 12px;
+  }
+}
+
+@media screen and (min-width: 751px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03 .cont-title-desc div {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03 .cont-title-desc div .cont-title-small {
+  font-weight: bold !important;
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03-mid-title {
+  max-width: 283px;
+  margin: auto;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03-mid-title {
+    max-width: 212px;
+    margin-bottom: 20px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03-testimony {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 60px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03-testimony {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin-bottom: 40px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03-testimony-img {
+  max-width: 240px;
+  width: 100%;
+}
+
+@media screen and (min-width: 751px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03-testimony-img {
+    margin-right: 30px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03-testimony-img {
+    max-width: 200px;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03-testimony-img p {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: normal;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03-testimony-img p {
+    margin-top: 12px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03-testimony-cont {
+  max-width: 506px;
+  position: relative;
+  width: 100%;
+  padding: 30px;
+  border: 1px solid #000000;
+  height: 100%;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03-testimony-cont {
+    padding: 20px;
+    margin: auto;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03-testimony-cont span {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #C80026;
+  position: absolute;
+  top: -13px;
+  background-color: #fff;
+  padding: 0 10px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03-testimony-cont span {
+    padding: 0 8px;
+    left: 13px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03-list {
+  margin-top: 60px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03-list {
+    margin-top: 40px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03-list .cont-inner-heading {
+  margin-bottom: 0;
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03-list .cont-inner-text {
+  text-align: center;
+  color: #C80026;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03-list .cont-inner-text {
+    margin-bottom: 12px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03-list ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin-bottom: 60px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03-list ul {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin-bottom: 40px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03-list ul li {
+  width: 100%;
+  max-width: 343px;
+  font-size: 1.6rem;
+  font-weight: normal;
+  line-height: 1.5;
+  background-color: #F8B62D;
+  text-align: center;
+  padding: 10px 0;
+  -webkit-box-flex: 35%;
+      -ms-flex: 35%;
+          flex: 35%;
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03-list ul li:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03-list ul li:not(:last-child) {
+    margin-bottom: 12px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03-list ul li:nth-child(odd) {
+  margin-right: 10px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03-list ul li {
+    max-width: 100%;
+    padding: 8px 0;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03-link {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03-link-title {
+  font-size: 1.6rem;
+  font-weight: normal;
+  margin-bottom: 15px;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03-link-title {
+    margin-bottom: 12px;
+  }
+}
+
+#main #main_a #tokusyuu_202308_1 .cont-03-link-btn {
+  font-size: 1.6rem;
+  font-weight: normal;
+  padding: 10px 40px;
+  width: 192px;
+  border-radius: 30px;
+  background-color: #333333;
+  color: #fff;
+  margin: auto;
+}
+
+@media screen and (max-width: 750px) {
+  #main #main_a #tokusyuu_202308_1 .cont-03-link-btn {
+    padding: 8px 44px;
+    width: 200px;
+  }
+}
+/*# sourceMappingURL=style.css.map */
